@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACD,KAAK,EAAE,IAAI;EACX,QAAQ,EAAE,iBAAiB,GAC9B","file":"src.f10117fe.css","sourceRoot":"..","sourcesContent":["#map {\n    width: 100%;\n    position: static !important;\n}"]}
